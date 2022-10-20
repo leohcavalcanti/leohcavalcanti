@@ -1,16 +1,23 @@
-### Hi there 👋
+# Welcome✨
+<div align = "center">
 
-<!--
-**leohcavalcanti/leohcavalcanti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello how are you? My name is Leonardo.🛸
+🚀I am currently studying Computer Science at the Catholic University of Pernambuco.🚀
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<div align = "center">
+<a href="https://github.com/leohcavalcanti">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leohcavalcanti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leohcavalcanti&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+---
+
+![Snake animation](https://github.com/leohcavalcanti/leohcavalcanti/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=amndalsr&icon=5&color=0)](https://visitcount.itsvg.in)
