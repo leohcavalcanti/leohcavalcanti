@@ -1,17 +1,9 @@
 # Welcome to my GitHub✨
-<div align = "center">
 
-### Hello how are you? My name is Leonardo.🛸
-🚀I am currently studying Computer Science at the Catholic University of Pernambuco.🚀
+Olá, eu sou Leonardo! amo o desenvolvimento de dispositivos mobile e Aqui você encontrará alguns projetos meu.
+- 🚀 Atualmente estou estudando Ciência da Computação na Universidade Católica de Pernambuco;
+- 🎮 Adoro video games;
+- 🎶 Amo música;
+- ✨ Uma boa conversa e sempre bem-vinda;
 
-</div>
-
-##
-
-<div align = "center">
-<a href="https://github.com/leohcavalcanti">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leohcavalcanti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leohcavalcanti&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-[![](https://visitcount.itsvg.in/api?id=amndalsr&icon=5&color=0)](https://visitcount.itsvg.in)
+Obrigado por passar por aqui!
