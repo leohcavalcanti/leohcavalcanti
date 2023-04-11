@@ -1,4 +1,4 @@
-# Welcome to my GitHub✨
+# Bem-vindo ao meu GitHub✨
 
 Olá, eu sou Leonardo! amo o desenvolvimento de dispositivos mobile e Aqui você encontrará alguns projetos meu.
 - 🚀 Atualmente estou estudando Ciência da Computação na Universidade Católica de Pernambuco;
