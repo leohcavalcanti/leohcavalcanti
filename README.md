@@ -14,10 +14,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leohcavalcanti&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
----
-
-![Snake animation](https://github.com/leohcavalcanti/leohcavalcanti/blob/output/github-contribution-grid-snake.svg)
-
----
-
 [![](https://visitcount.itsvg.in/api?id=amndalsr&icon=5&color=0)](https://visitcount.itsvg.in)
